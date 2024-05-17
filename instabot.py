@@ -1,4 +1,6 @@
-# ubstabot014.py
+# ubstabot001.py
+# bot base... gui para ingresar usuario y coontraseña y luego pide carpeta donde van a estar las imagenes q queres subir
+
 import tkinter as tk
 from tkinter import filedialog, messagebox
 from selenium import webdriver
