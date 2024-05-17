@@ -3,5 +3,8 @@ un bot que sube todas las imágenes de una carpeta a tu instagram usando seleniu
 
 
 
+
 lo unico que necesitas es 
+
+    
     pip install selenium
