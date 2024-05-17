@@ -13,7 +13,7 @@ lo unico que necesitas es
         Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
         .venv\Scripts\activate
         pip install selenium
-        python script.py
+        python instabot.py
         
         Set-ExecutionPolicy Undefined -Scope CurrentUser
         deactivate
